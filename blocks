@@ -8,47 +8,47 @@ blocks:
       type: item
       item:
         material: GRASS_BLOCK
-        quantity: 64
+        quantity: 1
       buyPrice: 50
-      sellPrice: 5
+      sellPrice: 0.5
       slot: 10
     2:
       type: item
       item:
         material: DIRT
-        quantity: 64
+        quantity: 1
       buyPrice: 30
-      sellPrice: 3
+      sellPrice: 0.5
       slot: 11
     3:
       type: item
       item:
         material: GRAVEL
-        quantity: 64
+        quantity: 1
       buyPrice: 50
-      sellPrice: 5
+      sellPrice: 0.5
       slot: 12
     4:
       type: item
       item:
         material: COBBLESTONE
-        quantity: 64
+        quantity: 1
       buyPrice: 30
-      sellPrice: 3
+      sellPrice: 0.5
       slot: 13
     5:
       type: item
       item:
         material: MOSSY_COBBLESTONE
-        quantity: 64
+        quantity: 1
       buyPrice: 50
-      sellPrice: 5
+      sellPrice: 0.5
       slot: 14
     6:
       type: item
       item:
         material: STONE
-        quantity: 64
+        quantity: 1
       buyPrice: 50
       sellPrice: 5
       slot: 15
@@ -56,7 +56,7 @@ blocks:
       type: item
       item:
         material: GRANITE
-        quantity: 64
+        quantity: 1
       buyPrice: 30
       sellPrice: 8
       slot: 16
@@ -64,7 +64,7 @@ blocks:
       type: item
       item:
         material: DIORITE
-        quantity: 64
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 19
@@ -72,7 +72,7 @@ blocks:
       type: item
       item:
         material: ANDESITE
-        quantity: 64
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 20
@@ -80,7 +80,7 @@ blocks:
       type: item
       item:
         material: OAK_Log
-        quantity: 32
+        quantity: 1
       buyPrice: 100
       sellPrice: 10
       slot: 21
@@ -88,7 +88,7 @@ blocks:
       type: item
       item:
         material: SPRUCE_LOG
-        quantity: 32
+        quantity: 1
       buyPrice: 100
       sellPrice: 10
       slot: 22
@@ -96,7 +96,7 @@ blocks:
       type: item
       item:
         material: BIRCH_LOG
-        quantity: 32
+        quantity: 1
       buyPrice: 100
       sellPrice: 10
       slot: 23
@@ -104,7 +104,7 @@ blocks:
       type: item
       item:
         material: JUNGLE_LOG
-        quantity: 32
+        quantity: 1
       buyPrice: 100
       sellPrice: 10
       slot: 24
@@ -112,7 +112,7 @@ blocks:
       type: item
       item:
         material: ACACIA_LOG
-        quantity: 32
+        quantity: 1
       buyPrice: 100
       sellPrice: 10
       slot: 25
@@ -120,7 +120,7 @@ blocks:
       type: item
       item:
         material: DARK_OAK_LOG
-        quantity: 32
+        quantity: 1
       buyPrice: 100
       sellPrice: 10
       slot: 28
@@ -128,7 +128,7 @@ blocks:
       type: item
       item:
         material: SNOW_BLOCK
-        quantity: 16
+        quantity: 1
       buyPrice: 20
       sellPrice: 2
       slot: 29
@@ -136,7 +136,7 @@ blocks:
       type: item
       item:
         material: ICE
-        quantity: 16
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 30
@@ -144,7 +144,7 @@ blocks:
       type: item
       item:
         material: PACKED_ICE
-        quantity: 16
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 31
@@ -152,7 +152,7 @@ blocks:
       type: item
       item:
         material: SPONGE
-        quantity: 8
+        quantity: 1
       buyPrice: 100
       sellPrice: 10
       slot: 32
@@ -160,7 +160,7 @@ blocks:
       type: item
       item:
         material: SAND
-        quantity: 64
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 33
@@ -168,7 +168,7 @@ blocks:
       type: item
       item:
         material: SANDSTONE
-        quantity: 32
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 34
@@ -176,7 +176,7 @@ blocks:
       type: item
       item:
         material: SAND
-        quantity: 64
+        quantity: 1
         damage: 1
       buyPrice: 30
       sellPrice: 3
@@ -186,7 +186,7 @@ blocks:
       type: item
       item:
         material: RED_SANDSTONE
-        quantity: 32
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 11
@@ -195,7 +195,7 @@ blocks:
       type: item
       item:
         material: GLASS
-        quantity: 16
+        quantity: 1
       buyPrice: 20
       sellPrice: 4
       slot: 12
@@ -204,7 +204,7 @@ blocks:
       type: item
       item:
         material: CLAY
-        quantity: 32
+        quantity: 1
       buyPrice: 40
       sellPrice: 4
       slot: 13
@@ -213,16 +213,16 @@ blocks:
       type: item
       item:
         material: TERRACOTTA
-        quantity: 32
+        quantity: 1
       buyPrice: 50
       sellPrice: 5
       slot: 14
-      page: 2
+      page: 3
     27:
       type: item
       item:
         material: BRICK
-        quantity: 64
+        quantity: 1
       buyPrice: 70
       sellPrice: 7
       slot: 15
@@ -231,7 +231,7 @@ blocks:
       type: item
       item:
         material: OBSIDIAN
-        quantity: 16
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 16
@@ -240,7 +240,7 @@ blocks:
       type: item
       item:
         material: NETHERRACK
-        quantity: 64
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 19
@@ -249,7 +249,7 @@ blocks:
       type: item
       item:
         material: GLOWSTONE
-        quantity: 64
+        quantity: 1
       buyPrice: 50
       sellPrice: 5
       slot: 20
@@ -258,7 +258,7 @@ blocks:
       type: item
       item:
         material: SOUL_SAND
-        quantity: 64
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 21
@@ -267,7 +267,7 @@ blocks:
       type: item
       item:
         material: NETHER_BRICK
-        quantity: 64
+        quantity: 1
       buyPrice: 50
       sellPrice: 5
       slot: 22
@@ -276,7 +276,7 @@ blocks:
       type: item
       item:
         material: END_STONE
-        quantity: 64
+        quantity: 1
       buyPrice: 30
       sellPrice: 3
       slot: 23
@@ -285,7 +285,7 @@ blocks:
       type: item
       item:
         material: PRISMARINE
-        quantity: 64
+        quantity: 1
       buyPrice: 50
       sellPrice: 5
       slot: 24
@@ -294,7 +294,7 @@ blocks:
       type: item
       item:
         material: BOOKSHELF
-        quantity: 16
+        quantity: 1
       buyPrice: 30
       sellPrice: 6
       slot: 25
@@ -308,7 +308,24 @@ blocks:
       sellPrice: 20
       slot: 31
       page: 2
-    37:
+    99:
       type: special
       special: BALANCE
       slot: 53
+    37:
+      type: item
+      item:
+        material: ENCHANTING_TABLE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: 20
+      slot: 37
+    38:
+      type: item
+      item:
+        material: BLACK_GLAZED_TERRACOTTA
+        quantity: 1
+      buyPrice: 50
+      sellPrice: 5
+      slot: 32
+      page: 3
