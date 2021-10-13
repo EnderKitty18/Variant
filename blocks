@@ -9,7 +9,7 @@ blocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-      buyPrice: 50
+      buyPrice: 8.5
       sellPrice: 0.5
       slot: 10
     2:
@@ -17,7 +17,7 @@ blocks:
       item:
         material: DIRT
         quantity: 1
-      buyPrice: 30
+      buyPrice: 8.5
       sellPrice: 0.5
       slot: 11
     3:
@@ -25,7 +25,7 @@ blocks:
       item:
         material: GRAVEL
         quantity: 1
-      buyPrice: 50
+      buyPrice: 11.5
       sellPrice: 0.5
       slot: 12
     4:
@@ -33,7 +33,7 @@ blocks:
       item:
         material: COBBLESTONE
         quantity: 1
-      buyPrice: 30
+      buyPrice: 7.5
       sellPrice: 0.5
       slot: 13
     5:
@@ -41,7 +41,7 @@ blocks:
       item:
         material: MOSSY_COBBLESTONE
         quantity: 1
-      buyPrice: 50
+      buyPrice: 13
       sellPrice: 0.5
       slot: 14
     6:
@@ -49,39 +49,39 @@ blocks:
       item:
         material: STONE
         quantity: 1
-      buyPrice: 50
-      sellPrice: 5
+      buyPrice: 8
+      sellPrice: 0.5
       slot: 15
     7:
       type: item
       item:
         material: GRANITE
         quantity: 1
-      buyPrice: 30
-      sellPrice: 8
+      buyPrice: 8
+      sellPrice: 0.5
       slot: 16
     8:
       type: item
       item:
         material: DIORITE
         quantity: 1
-      buyPrice: 30
-      sellPrice: 3
+      buyPrice: 8.5
+      sellPrice: 0.5
       slot: 19
     9:
       type: item
       item:
         material: ANDESITE
         quantity: 1
-      buyPrice: 30
-      sellPrice: 3
+      buyPrice: 9.5
+      sellPrice: 0.5
       slot: 20
     10:
       type: item
       item:
         material: OAK_Log
         quantity: 1
-      buyPrice: 100
+      buyPrice: 15
       sellPrice: 10
       slot: 21
     11:
@@ -89,7 +89,7 @@ blocks:
       item:
         material: SPRUCE_LOG
         quantity: 1
-      buyPrice: 100
+      buyPrice: 15
       sellPrice: 10
       slot: 22
     12:
@@ -97,7 +97,7 @@ blocks:
       item:
         material: BIRCH_LOG
         quantity: 1
-      buyPrice: 100
+      buyPrice: 15
       sellPrice: 10
       slot: 23
     13:
@@ -105,7 +105,7 @@ blocks:
       item:
         material: JUNGLE_LOG
         quantity: 1
-      buyPrice: 100
+      buyPrice: 15
       sellPrice: 10
       slot: 24
     14:
@@ -113,7 +113,7 @@ blocks:
       item:
         material: ACACIA_LOG
         quantity: 1
-      buyPrice: 100
+      buyPrice: 15
       sellPrice: 10
       slot: 25
     15:
@@ -121,7 +121,7 @@ blocks:
       item:
         material: DARK_OAK_LOG
         quantity: 1
-      buyPrice: 100
+      buyPrice: 15
       sellPrice: 10
       slot: 28
     16:
@@ -161,35 +161,25 @@ blocks:
       item:
         material: SAND
         quantity: 1
-      buyPrice: 30
-      sellPrice: 3
+      buyPrice: 16
+      sellPrice: 0.5
       slot: 33
     21:
       type: item
       item:
         material: SANDSTONE
         quantity: 1
-      buyPrice: 30
-      sellPrice: 3
+      buyPrice: 15
+      sellPrice: 0.5
       slot: 34
     22:
-      type: item
-      item:
-        material: SAND
-        quantity: 1
-        damage: 1
-      buyPrice: 30
-      sellPrice: 3
-      slot: 10
-      page: 2
-    23:
       type: item
       item:
         material: RED_SANDSTONE
         quantity: 1
       buyPrice: 30
       sellPrice: 3
-      slot: 11
+      slot: 10
       page: 2
     24:
       type: item
@@ -198,7 +188,7 @@ blocks:
         quantity: 1
       buyPrice: 20
       sellPrice: 4
-      slot: 12
+      slot: 11
       page: 2
     25:
       type: item
@@ -207,7 +197,7 @@ blocks:
         quantity: 1
       buyPrice: 40
       sellPrice: 4
-      slot: 13
+      slot: 12
       page: 2
     26:
       type: item
@@ -216,7 +206,7 @@ blocks:
         quantity: 1
       buyPrice: 50
       sellPrice: 5
-      slot: 14
+      slot: 13
       page: 3
     27:
       type: item
@@ -225,7 +215,7 @@ blocks:
         quantity: 1
       buyPrice: 70
       sellPrice: 7
-      slot: 15
+      slot: 14
       page: 2
     28:
       type: item
@@ -234,7 +224,7 @@ blocks:
         quantity: 1
       buyPrice: 30
       sellPrice: 3
-      slot: 16
+      slot: 15
       page: 2
     29:
       type: item
@@ -243,7 +233,7 @@ blocks:
         quantity: 1
       buyPrice: 30
       sellPrice: 3
-      slot: 19
+      slot: 16
       page: 2
     30:
       type: item
